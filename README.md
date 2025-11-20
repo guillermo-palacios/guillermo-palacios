@@ -10,7 +10,7 @@ Soy un estudiante de 4º de Ingeniería Informática con mención en Ingeniería
 * Mi Trabajo de Fin de Grado (TFG) sobre una aplicación web para el seguimiento diario del estado de ánimo personal.
 <!--* Un proyecto personal [Nombre del Proyecto, ej: de una app de tareas con React].-->
 
-#### 🌱 Estoy aprendiendo:
+<!--#### 🌱 Estoy aprendiendo:-->
 <!--* [Tecnología que estés aprendiendo, ej: Docker y Kubernetes]
 * [Habilidad blanda o metodología, ej: Metodologías Ágiles (Scrum)]-->
 
