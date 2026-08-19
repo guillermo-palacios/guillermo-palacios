@@ -1,13 +1,13 @@
 ### ¡Hola! 👋 Soy Guillermo Palacios García
 
-Soy un estudiante de 4º de Ingeniería Informática con mención en Ingeniería del Software en la Universidad de Córdoba.
+Soy Ingeniero Informático con mención en Ingeniería del Software, apasionado por el desarrollo de software escalable y de calidad. Actualmente estoy en búsqueda activa de empleo, en busca de nuevas oportunidades donde poner en valor mis conocimientos y esfuerzo por el desarrollo del software.
 
 <!--Actualmente estoy enfocado en [Tu Área 2, ej: el desarrollo backend con Java/Spring] y busco activamente prácticas de empresa para [Mes/Periodo, ej: el segundo cuatrimestre] donde pueda aportar y seguir aprendiendo.
 -->
 ---
 
-#### 🔭 Actualmente estoy trabajando en:
-* Mi Trabajo de Fin de Grado (TFG) sobre una aplicación web para el seguimiento diario del estado de ánimo personal.
+<!--#### 🔭 Actualmente estoy trabajando en:
+* Mi Trabajo de Fin de Grado (TFG) sobre una aplicación web para el seguimiento diario del estado de ánimo personal.-->
 <!--* Un proyecto personal [Nombre del Proyecto, ej: de una app de tareas con React].-->
 
 <!--#### 🌱 Estoy aprendiendo:-->
